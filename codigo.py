@@ -3,3 +3,7 @@ for x in range(1,20):
 
 
 # preciso fazer algum codigo legal para a aula
+
+for x in range(1,20):
+    if x % 2 == 0:
+        print(x)
